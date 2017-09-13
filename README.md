@@ -45,7 +45,7 @@ If you want to understand how it's wired and make it your own, check the file `e
 All tasks are defined in the package.json
 Pull Requests are welcome, write tests whenever possible (I actually haven't yet, so tests are broken - I accept pull request with fixes too!).
 
-- `git clone git@github.com:thenano/tech-radar`
+- `git clone git@github.com:www-thoughtworks-com/tech-radar`
 - `npm install`
 - `npm test` - to run your tests
 - `npm run build` - to build out your changes
